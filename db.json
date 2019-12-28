@@ -26,11 +26,7 @@
   },
   
   "books" : {
-    "count":3,
-    "titles:[
-    {"id":1, "title":"Order 1"},
-    {"id":2, "title":"Order 2"}
-    ]
+    "count":3
   }
 
 }
