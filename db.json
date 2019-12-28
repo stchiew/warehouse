@@ -1,18 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-   "books": [
-    { 
-      "count":3,
-      "results": [
+  "count": 3,
+  "results": [
         {"id":1, "title":"Order of the Jedi"},
         {"id":2, "title":"How to Abandon the Dark Side"},    
         {"id":3, "title":"Jedi Guide to the Universe"}    
-      ] 
-    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
