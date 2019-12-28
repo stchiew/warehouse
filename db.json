@@ -28,7 +28,8 @@
   "books" : {
     "count":3,
     "titles":[
-    { "id": 1, "title": "8 Habits of Highly Effective Jedis", "author": "yoda" }
+    { "id": 1, "title": "8 Habits of Highly Effective Jedis", "author": "yoda" },
+    { "id": 2, "title": "8 Habits of Highly Effective Jedis", "author": "yoda" }
     ]
   }
 }
