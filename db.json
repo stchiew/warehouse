@@ -30,7 +30,7 @@
     "titles":[
       { "id": 1, "title": "8 Habits of Highly Effective Jedis", "author": "yoda" },
       { "id": 2, "title": "Knights of the First Order", "author": "Kylo Ren" },
-      { "id": 3, "title": "Overcoming the Dark Side", "author": "Darth Vader" },
+      { "id": 3, "title": "Overcoming the Dark Side", "author": "Darth Vader" }
     ]
   }
 }
