@@ -5,9 +5,11 @@
     { "id": 3, "title": "Post 3" }
   ],
    "books": [
-    { "id": 1, "title": "The Force and the Universe" },
-    { "id": 2, "title": "The Jedi Adventure" },
-    { "id": 3, "title": "The Final Order" }
+    { "books": [
+      {"id":1, "title":"Order of the Jedi"},
+      {"id":2, "title":"How to Abandon the Dark Side"},    
+      {"id":3, "title":"Jedi Guide to the Universe"}    
+    ] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
