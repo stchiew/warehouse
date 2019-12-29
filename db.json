@@ -24,14 +24,11 @@
     "name": "typicode"
 
   },
-  "countries" : {
-    "description":"Countries of the world",
-    "value":[
-      { "id": 1, "Title": "Malaysia", "Capital": "Kuala Lumpur" },
+  "countries" : [
+      { "id": 1, "Title": "Malaysiagit", "Capital": "Kuala Lumpur" },
       { "id": 2, "Title": "Australia", "Capital": "Canberra" },
       { "id": 3, "Title": "Brazil", "Capital": "Brasilia" }
-    ]
-  },
+  ],
   "books" : {
     "count":3,
     "titles":[
