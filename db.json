@@ -25,9 +25,11 @@
 
   },
   "countries" : [
-      { "id": 1, "Title": "Malaysiagit", "Capital": "Kuala Lumpur" },
+      { "id": 1, "Title": "Malaysia", "Capital": "Kuala Lumpur" },
       { "id": 2, "Title": "Australia", "Capital": "Canberra" },
-      { "id": 3, "Title": "Brazil", "Capital": "Brasilia" }
+      { "id": 3, "Title": "Brazil", "Capital": "Brasilia" },
+      { "id": 4, "Title": "France", "Capital": "Paris" },
+      { "id": 5, "Title": "Egypt", "Capital": "Cairo" },
   ],
   "books" : {
     "count":3,
