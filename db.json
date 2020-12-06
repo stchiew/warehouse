@@ -1,42 +1,95 @@
-
 {
-
   "posts": [
-
-    { "id": 1, "title": "Post 1" },
-
-    { "id": 2, "title": "Post 2" },
-
-    { "id": 3, "title": "Post 3" }
-
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
-
   "comments": [
-
-    { "id": 1, "body": "some comment", "postId": 1 },
-
-    { "id": 2, "body": "some comment", "postId": 1 }
-
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-
   "profile": {
-
     "name": "typicode"
-
   },
-  "countries" : [
-      { "id": 1, "Title": "Malaysia", "Capital": "Kuala Lumpur" },
-      { "id": 2, "Title": "Australia", "Capital": "Canberra" },
-      { "id": 3, "Title": "Brazil", "Capital": "Brasilia" },
-      { "id": 4, "Title": "France", "Capital": "Paris" },
-      { "id": 5, "Title": "Egypt", "Capital": "Cairo" }
+  "countries": [
+    {
+      "id": 1,
+      "Title": "Malaysia",
+      "Capital": "Kuala Lumpur"
+    },
+    {
+      "id": 2,
+      "Title": "Australia",
+      "Capital": "Canberra"
+    },
+    {
+      "id": 3,
+      "Title": "Brazil",
+      "Capital": "Brasilia"
+    },
+    {
+      "id": 4,
+      "Title": "France",
+      "Capital": "Paris"
+    },
+    {
+      "id": 5,
+      "Title": "Egypt",
+      "Capital": "Cairo"
+    }
   ],
-  "books" : {
-    "count":3,
-    "titles":[
-      { "id": 1, "title": "8 Habits of Highly Effective Jedis", "author": "yoda" },
-      { "id": 2, "title": "Knights of the First Order", "author": "Kylo Ren" },
-      { "id": 3, "title": "Overcoming the Dark Side", "author": "Darth Vader" }
+  "todo": [
+    {
+      "id": 1,
+      "Title": "Create repository",
+      "Completion": 0
+    },
+    {
+      "id": 2,
+      "Title": "Assemble team",
+      "Completion": 10
+    },
+    {
+      "id": 1,
+      "Title": "Assign tasks",
+      "Completion": 100
+    }
+  ],
+  "books": {
+    "count": 3,
+    "titles": [
+      {
+        "id": 1,
+        "title": "8 Habits of Highly Effective Jedis",
+        "author": "yoda"
+      },
+      {
+        "id": 2,
+        "title": "Knights of the First Order",
+        "author": "Kylo Ren"
+      },
+      {
+        "id": 3,
+        "title": "Overcoming the Dark Side",
+        "author": "Darth Vader"
+      }
     ]
   }
 }
